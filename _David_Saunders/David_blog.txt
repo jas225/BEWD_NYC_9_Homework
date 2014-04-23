@@ -1,0 +1,10 @@
+David Saunders
+www.thedavidsaunders.com
+
+The first BEWD class was mostly devoted to learning and understanding command line and terminal. Like any language, there is vocabulary and syntax that needs to be learned. 
+
+Thankfully, many of the commands are pretty obvious (e.g., "mkdir" means "make directory"), which makes navigating terminal a bit easier. That said, some terms a bit of a stretch (e.g., "touch" creates a new blank file - why "touch"? and not "new" or "create"?). These are the ones that will require straight-up memorization. 
+
+Given that I had completed the pre-work for class #1, much of the command line content was review. But when we transitioned into github, I quickly became a bit confused. I have had some experience using github via the browser, but had never interacted with it via git and terminal. The learning curve is a more than a little steeper..! My first attempt to push my blog.txt file was unsuccessful, and I needed some help removing the directory that I had accidentally connected with. Once I had that figured out, I was able to push my file to the appropriate repo and submit a pull request, although I haven't received confirmation yet that it's been received - I can only hope that it has..! :) 
+
+In short, while I am feeling pretty good using terminal and command line to navigate my machine, I need to work on getting more facile with my understanding of git and github for my work. 

@@ -18,6 +18,7 @@ STUDENTS = [
   'Nick Madrid',
   'Daniel Meagher',
   'Shi Qing Poh',
+  'Francisco Quiroga',
   'Mike Salvaris',
   'Nina Saporta',
   'David Saunders',

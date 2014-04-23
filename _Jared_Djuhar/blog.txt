@@ -1,0 +1,9 @@
+Jared Djuhar
+www.facebook.com/jarded
+
+3/26
+Yesterday we learnt:
+Bash Commands, Git Commands,
+Some of the commands: touch, open, subl, mkdir, dir, cd, ls, rm -rf, git commits, git clone
+We also set up our Github Respository and forked it.
+And now I am writing a journal entry on 3/26.

@@ -1,0 +1,7 @@
+Randy Gretz
+
+https://www.schoology.com/user/10400729/blog
+
+I learned a lot in our first class.  Aside from what is expected of us as students (punctuality, minimum attendance and completed work) and also reviewed how to navigate around the shell viz commands.  Namely: how to make a new directory, make a new file, open said file, delete a file, and move a file.  We discussed Git as a version control system and practiced cloning, adding, committing, and pushing.  I met my seat mate, Max, and we talked a bit about what we do for work and how the class relates to it.
+
+@Brooks @Max - Do we post our blog posts into text files and commit to the master branch of the BEWD_NYC_9_Homework folder?  Do we post our blog entry on schoology and then paste a link in the blog text file to commit to the master branch?

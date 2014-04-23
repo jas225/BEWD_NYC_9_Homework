@@ -1,0 +1,10 @@
+Tyler Houle
+www.thisistylersfakeblog.com
+
+In the first class I learned a few different basic things, including:
+1. a basic understanding of web development and how to integrate myself into the community
+2. how to access and use the command line (including the specific code to avoid that would erase all contents on my computer
+3. The touch command is useful for creating any type of file, including a ruby file, which has a .rb extension
+4. how to navigate around using basic utilities such as cd, ls, pwd, mkdir, rm, and more
+
+We learned a bit about using Git and GitHub. It's useful for version control and is a better way than attaching which version a file is because you'll almost always end up with v50 or FINAL_FINAL to describe a file. It creates checkpoints and if used correctly those checkpoints are labeled so it's easier to go back to earlier versions and know what exactly has or hasn't changed. GitHub is an online community that easily allows people to share their code. I learned how to clone, check status, add, commit, and submit pull requests. Looking forward to learning a lot more!

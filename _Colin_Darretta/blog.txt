@@ -1,0 +1,7 @@
+That there was hope.
+
+Or, said another way, that some of this made sense to me. At least at the outset. We learned the command line basics - how to make a directory (mkdir), change into a directory (cd), list what's in a given directory (ls) and create a file (touch) - which at least provided me with a very, very basic understanding of how to navigate around. Those were all pretty intuitive and easy to understand. Slightly more less intuitive were some of the git basics - initiating new projects (git init), git status (to see my tracked/untracked files), git add (to track new files) and how to commit files (git commit "xyz").
+
+I got to understand some of what the difference is between the command line and what I will do in sublime - it appears that sublime is where I'll actually write my ruby code whereas I use command line for navigation, file creation and importantly pushing things onto git as well as submitting pull requests. The nuances are still lost on me - but I think I am starting to grasp basic fundamental concepts anyway. 
+
+Fingers crossed I don't find myself out of my depth in the immediate future (as in tonight).

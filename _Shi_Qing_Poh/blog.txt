@@ -1,0 +1,7 @@
+Shi Qing Poh
+
+On Mar 25, 2014, I learned about the command line and about git and github. I also watched the video last weekend on using git commands on the terminal such as git push, git commit and git add. 
+
+I learned several command lines such as ls, cd, touch, mkdir.
+
+Finally, I learned about the concept of fork in github and how students like me can clone homework from github (origin) to my local machine and push the completed assignment to the origin. After that, we have to send a pull request for the instructor to pull our scripts to upstream and merge it with github.
