@@ -1,0 +1,2 @@
+http://api.giphy.com/v1/gifs/search?q=basketball&api_key=dc6zaTOxFJmzC
+http://access.alchemyapi.com/calls/url/URLGetRankedNamedEntities?apikey=c72d36c24bfc181cf5c9ddde91e9bd5e512024ec&url=http://techcrunch.com/2014/04/17/airbnb-hotel-taxes-hotel-lobby-flip-flop&outputMode=json
